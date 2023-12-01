@@ -1,3 +1,9 @@
+fn toto(){
+    print!("TOTO!")
+}
+
+
 fn main() {
-    println!("Hello, world!");
+    //println!("Hello, world!");
+    toto();
 }
