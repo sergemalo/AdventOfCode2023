@@ -115,6 +115,7 @@ fn main() {
                 my_numbers[5] = capsNbs[6].parse::<i32>().unwrap();
                 my_numbers[6] = capsNbs[7].parse::<i32>().unwrap();
                 my_numbers[7] = capsNbs[8].parse::<i32>().unwrap();
+                
             }
 
             println!("My numbers: {:?}", my_numbers);
